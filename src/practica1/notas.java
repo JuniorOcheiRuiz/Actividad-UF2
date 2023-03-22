@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Ejemplo de uso de JAVADOC y GIT
  * @author Junior Ochei Ruiz
- * @version 1.0.0
+ * @version 1.0.1
  */
 public class notas {
 	//declaramos la variables que nos hacen falta
